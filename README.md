@@ -1,4 +1,4 @@
-#Assessment: Machine Learning and Statistics
+## Assessment: Machine Learning and Statistics
          ian.mcloughlin@atu.ie
             Winter 22/23
 
